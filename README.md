@@ -11,13 +11,13 @@ Follow the steps below to set up and run the project locally.
 Use the following command to clone the repository:
 
 ```bash
-git clone git@github.com:WebDev-WBSCodingSchool/wbs-form-submission.git
+git clone git@github.com:G-SEAI-9/react-19-forms.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd wbs-form-submission
+cd react-19-forms
 ```
 
 ### 2. Install Dependencies
